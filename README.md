@@ -16,7 +16,7 @@ AI Frontend Architect | Angular Specialist | Building Copilots, UI Agents, and A
 
 ---
 
-## Recruiter Snapshot
+## My Snapshot
 
 I build modern frontend systems for enterprise products, with a current focus on AI copilots, agentic workflows, RAG-powered interfaces, and Angular-based product architecture.
 
