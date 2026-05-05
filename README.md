@@ -90,14 +90,14 @@ I focus on the next layer: frontend systems that can reason over product context
 
 That means treating the frontend as a decision surface, not only a presentation layer.
 
-## Proof I Am Building Toward
+## AI Frontend Project Roadmap
 
-My next public proof projects are intentionally aligned with Frontend + AI roles:
+These public projects are being built to demonstrate production-grade AI frontend architecture:
 
-- `angular-ai-copilot-starter`: Angular demo app with embedded copilot, streaming, RAG hooks, and tool calls
-- `ngx-copilot-sdk`: reusable Angular components and services for AI copilots
-- `ai-ui-agent-demo`: UI-aware agent that can inspect app context and execute guided workflows
-- `frontend-ai-patterns`: practical examples for streaming UX, tool calling, RAG UI, and agent orchestration
+- angular-ai-copilot-starter — Angular copilot demo with streaming chat, RAG source cards, tool timeline, and action approval UX.
+- ngx-copilot-sdk — Reusable Angular SDK for embedding copilots into enterprise applications.
+- ai-ui-agent-demo — UI-aware agent demo that reads page context and simulates guided workflow execution.
+- frontend-ai-patterns — Practical Angular/TypeScript patterns for RAG UI, streaming UX, tool calling, and agent orchestration.
 
 ## Experience Domains
 
