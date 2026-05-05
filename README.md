@@ -10,7 +10,6 @@ AI Frontend Architect | Angular Specialist | Building Copilots, UI Agents, and A
 
 <p align="center">
   <a href="https://ankitparekh007.github.io/resume/">Portfolio</a> |
-  <a href="https://akkiparekh.github.io/CV">CV</a> |
   <a href="https://in.linkedin.com/in/akkiparekh">LinkedIn</a>
 </p>
 
