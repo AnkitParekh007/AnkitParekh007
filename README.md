@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnkitParekh007/bio/main/gitbanner.png" alt="Ankit Parekh Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/AnkitParekh007/AnkitParekh007/main/assets/gitbanner.png" alt="Ankit Parekh Banner" width="100%" />
 </p>
 
 <h1 align="center">Ankit Parekh</h1>
@@ -93,10 +93,10 @@ That means treating the frontend as a decision surface, not only a presentation 
 
 These public projects are being built to demonstrate production-grade AI frontend architecture:
 
-- angular-ai-copilot-starter — Angular copilot demo with streaming chat, RAG source cards, tool timeline, and action approval UX.
-- ngx-copilot-sdk — Reusable Angular SDK for embedding copilots into enterprise applications.
-- ai-ui-agent-demo — UI-aware agent demo that reads page context and simulates guided workflow execution.
-- frontend-ai-patterns — Practical Angular/TypeScript patterns for RAG UI, streaming UX, tool calling, and agent orchestration.
+- angular-ai-copilot-starter - Angular copilot demo with streaming chat, RAG source cards, tool timeline, and action approval UX.
+- ngx-copilot-sdk - Reusable Angular SDK for embedding copilots into enterprise applications.
+- ai-ui-agent-demo - UI-aware agent demo that reads page context and simulates guided workflow execution.
+- frontend-ai-patterns - Practical Angular/TypeScript patterns for RAG UI, streaming UX, tool calling, and agent orchestration.
 
 ## Experience Domains
 
@@ -114,7 +114,7 @@ I have worked across product environments in:
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkitParekh007&show_icons=true" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnkitParekh007&theme=default" alt="GitHub profile summary" />
 </p>
 
 <p align="center">
