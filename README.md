@@ -4,7 +4,7 @@
 
 # Ankit Parekh
 
-## AI Frontend Architect | Angular Architect | Copilot UI Builder
+## AI Frontend Architect | Angular Architect | Agentic UI Builder
 
 I build enterprise Angular and TypeScript applications with embedded AI copilots, RAG-powered workflows, MCP/tool execution, streaming UX, UI-aware agents, action approvals, and enterprise-safe agentic interfaces.
 
