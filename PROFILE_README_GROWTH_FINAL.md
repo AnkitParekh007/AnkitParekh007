@@ -38,70 +38,8 @@ I build enterprise Angular and TypeScript applications with embedded AI copilots
 
 ## Open Source Contribution Areas
 
-I am interested in contributing to:
-
-- Angular AI UI libraries
-- Copilot interfaces
-- RAG citation UX
-- MCP/tool-calling dashboards
-- Agent observability UI
-- Admin consoles for AI systems
-- Frontend architecture docs
-- Enterprise Angular examples
-
-## Core Capabilities
-
-| Area | Focus |
-| --- | --- |
-| AI Frontend Architecture | Copilot UI, RAG UX, MCP tools, agent workflows, approvals, guardrails |
-| Angular Architecture | TypeScript models, RxJS state, reusable components, enterprise app structure |
-| Product UI | Data-heavy workflows, admin consoles, dashboards, action logs, approval queues |
-| Delivery | GitHub, CI/CD, AWS, Docker, Kubernetes, production-minded frontend implementation |
-
-## AI Frontend Architecture Stack
-
-`Copilot UX` `RAG UI` `MCP tools` `Tool calling` `Streaming UX` `Agent modes` `Human approval` `Context serialization` `Guardrails`
-
-## Frontend Architecture Stack
-
-`Angular` `TypeScript` `RxJS` `JavaScript` `HTML` `CSS` `Design systems` `Enterprise UI` `Micro-frontends` `CI/CD`
-
-## Public Proof Repos
-
-- [angular-ai-copilot-starter](https://github.com/AnkitParekh007/angular-ai-copilot-starter)
-- [ngx-copilot-sdk](https://github.com/AnkitParekh007/ngx-copilot-sdk)
-- [ai-ui-agent-demo](https://github.com/AnkitParekh007/ai-ui-agent-demo)
-- [frontend-ai-patterns](https://github.com/AnkitParekh007/frontend-ai-patterns)
-- [resume](https://github.com/AnkitParekh007/resume)
-
-## Current Focus
-
-- Making Angular AI copilot demos more visual and reusable.
-- Publishing frontend patterns for RAG, MCP tools, and agentic UI.
-- Adding screenshots, live demos, and examples that are useful for Angular teams.
-- Contributing Angular examples and UI architecture guidance to AI tooling projects.
-
-## Target Roles
-
-- AI Frontend Engineer
-- Angular Architect
-- Frontend Architect
-- Copilot UI Engineer
-- LLM App Frontend Engineer
-- AI Product Engineer
-- Enterprise UI Architect
-- Micro-Frontend Architect
+I am interested in contributing to Angular AI UI libraries, copilot interfaces, RAG citation UX, MCP/tool-calling dashboards, agent observability UI, admin consoles for AI systems, frontend architecture docs, and enterprise Angular examples.
 
 ## Invite Me To Contribute
 
 If you maintain an AI, Angular, MCP, RAG, or agentic UI project and need help with frontend architecture, UI patterns, docs, examples, dashboards, or Angular adapters, I am open to contributing.
-
-## Contact
-
-- Portfolio: [ankitparekh007.github.io/resume](https://ankitparekh007.github.io/resume/)
-- LinkedIn: [linkedin.com/in/akkiparekh](https://in.linkedin.com/in/akkiparekh)
-- GitHub: [github.com/AnkitParekh007](https://github.com/AnkitParekh007)
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnkitParekh007&theme=default" alt="GitHub profile summary" />
-</p>
