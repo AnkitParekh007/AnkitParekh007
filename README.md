@@ -6,11 +6,15 @@
 
 ## AI Frontend Architect | Angular Architect | Agentic UI Builder
 
-I build enterprise Angular and TypeScript applications with embedded AI copilots, RAG-powered workflows, MCP/tool execution, streaming UX, UI-aware agents, action approvals, and enterprise-safe agentic interfaces.
+I build enterprise Angular and TypeScript applications with embedded AI copilots,
+RAG-powered workflows, MCP/tool execution, streaming UX, UI-aware agents,
+action approvals, and enterprise-safe agentic interfaces.
 
-**Open to AI Frontend Engineer, Angular Architect, Frontend Architect, Copilot UI Engineer, and LLM App Frontend roles.**
+**Open to AI Frontend Engineer, Angular Architect, Frontend Architect,
+Copilot UI Engineer, and LLM App Frontend roles.**
 
-[Portfolio](https://ankitparekh007.github.io/resume/) | [LinkedIn](https://in.linkedin.com/in/akkiparekh)
+[Portfolio](https://ankitparekh007.github.io/resume/) |
+[LinkedIn](https://in.linkedin.com/in/akkiparekh)
 
 ## What I Build
 
@@ -22,12 +26,25 @@ I build enterprise Angular and TypeScript applications with embedded AI copilots
 
 ## Featured AI Frontend Projects
 
-| Project | What it demonstrates |
-| --- | --- |
-| [angular-ai-copilot-starter](https://github.com/AnkitParekh007/angular-ai-copilot-starter) | Angular copilot demo with streaming chat UX, RAG source cards, tool-call timeline, action approvals, mock MCP tools, and enterprise agent modes. |
-| [ngx-copilot-sdk](https://github.com/AnkitParekh007/ngx-copilot-sdk) | Reusable Angular SDK patterns for embedding AI chat, RAG citations, tool calling, approvals, and agent workflows into enterprise applications. |
-| [ai-ui-agent-demo](https://github.com/AnkitParekh007/ai-ui-agent-demo) | UI-aware Angular agent demo that reads page context, suggests workflow actions, requests approval, and shows execution state. |
-| [frontend-ai-patterns](https://github.com/AnkitParekh007/frontend-ai-patterns) | Angular and TypeScript pattern library for AI frontend systems: streaming UX, RAG citations, MCP tools, approvals, state machines, retries, and guardrails. |
+### [angular-ai-copilot-starter](https://github.com/AnkitParekh007/angular-ai-copilot-starter)
+
+Angular copilot demo with streaming chat UX, RAG source cards, tool-call
+timeline, action approvals, mock MCP tools, and enterprise agent modes.
+
+### [ngx-copilot-sdk](https://github.com/AnkitParekh007/ngx-copilot-sdk)
+
+Reusable Angular SDK patterns for embedding AI chat, RAG citations, tool
+calling, approvals, and agent workflows into enterprise applications.
+
+### [ai-ui-agent-demo](https://github.com/AnkitParekh007/ai-ui-agent-demo)
+
+UI-aware Angular agent demo that reads page context, suggests workflow actions,
+requests approval, and shows execution state.
+
+### [frontend-ai-patterns](https://github.com/AnkitParekh007/frontend-ai-patterns)
+
+Angular and TypeScript pattern library for AI frontend systems: streaming UX,
+RAG citations, MCP tools, approvals, state machines, retries, and guardrails.
 
 ## Why Follow Me
 
@@ -40,31 +57,60 @@ I build enterprise Angular and TypeScript applications with embedded AI copilots
 
 I am interested in contributing to:
 
-- Angular AI UI libraries
-- Copilot interfaces
-- RAG citation UX
-- MCP/tool-calling dashboards
-- Agent observability UI
-- Admin consoles for AI systems
-- Frontend architecture docs
-- Enterprise Angular examples
+- Angular AI UI libraries.
+- Copilot interfaces.
+- RAG citation UX.
+- MCP/tool-calling dashboards.
+- Agent observability UI.
+- Admin consoles for AI systems.
+- Frontend architecture docs.
+- Enterprise Angular examples.
 
 ## Core Capabilities
 
-| Area | Focus |
-| --- | --- |
-| AI Frontend Architecture | Copilot UI, RAG UX, MCP tools, agent workflows, approvals, guardrails |
-| Angular Architecture | TypeScript models, RxJS state, reusable components, enterprise app structure |
-| Product UI | Data-heavy workflows, admin consoles, dashboards, action logs, approval queues |
-| Delivery | GitHub, CI/CD, AWS, Docker, Kubernetes, production-minded frontend implementation |
+### AI Frontend Architecture
+
+Copilot UI, RAG UX, MCP tools, agent workflows, approvals, and guardrails.
+
+### Angular Architecture
+
+TypeScript models, RxJS state, reusable components, and enterprise app
+structure.
+
+### Product UI
+
+Data-heavy workflows, admin consoles, dashboards, action logs, and approval
+queues.
+
+### Delivery
+
+GitHub, CI/CD, AWS, Docker, Kubernetes, and production-minded frontend
+implementation.
 
 ## AI Frontend Architecture Stack
 
-`Copilot UX` `RAG UI` `MCP tools` `Tool calling` `Streaming UX` `Agent modes` `Human approval` `Context serialization` `Guardrails`
+- Copilot UX
+- RAG UI
+- MCP tools
+- Tool calling
+- Streaming UX
+- Agent modes
+- Human approval
+- Context serialization
+- Guardrails
 
 ## Frontend Architecture Stack
 
-`Angular` `TypeScript` `RxJS` `JavaScript` `HTML` `CSS` `Design systems` `Enterprise UI` `Micro-frontends` `CI/CD`
+- Angular
+- TypeScript
+- RxJS
+- JavaScript
+- HTML
+- CSS
+- Design systems
+- Enterprise UI
+- Micro-frontends
+- CI/CD
 
 ## Public Proof Repos
 
@@ -79,7 +125,8 @@ I am interested in contributing to:
 - Making Angular AI copilot demos more visual and reusable.
 - Publishing frontend patterns for RAG, MCP tools, and agentic UI.
 - Adding screenshots, live demos, and examples that are useful for Angular teams.
-- Contributing Angular examples and UI architecture guidance to AI tooling projects.
+- Contributing Angular examples and UI architecture guidance to AI tooling
+  projects.
 
 ## Target Roles
 
@@ -94,7 +141,9 @@ I am interested in contributing to:
 
 ## Invite Me To Contribute
 
-If you maintain an AI, Angular, MCP, RAG, or agentic UI project and need help with frontend architecture, UI patterns, docs, examples, dashboards, or Angular adapters, I am open to contributing.
+If you maintain an AI, Angular, MCP, RAG, or agentic UI project and need help
+with frontend architecture, UI patterns, docs, examples, dashboards, or Angular
+adapters, I am open to contributing.
 
 ## Contact
 
