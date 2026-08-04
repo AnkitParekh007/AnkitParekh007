@@ -27,7 +27,7 @@
 
 | Project | What it proves | Stack | Live |
 |---------|----------------|-------|------|
-| **[org-ai-force](https://github.com/AnkitParekh007/org-ai-force)** | Enterprise agent-workspace architecture | Angular 21 · NestJS · MCP · RAG · Docker | [demo](https://ankitparekh007.github.io/org-ai-force/) |
+| **[org-ai-force](https://github.com/AnkitParekh007/org-ai-force)** | Enterprise agent-workspace architecture | Angular 21 · NestJS · MCP · RAG · Docker | [walkthrough](https://github.com/AnkitParekh007/org-ai-force#readme) |
 | **[ngx-copilot-platform](https://github.com/AnkitParekh007/ngx-copilot-platform)** | Full-stack copilot platform with RAG backend | Angular · Next.js · Supabase · pgvector | [demo](https://ankitparekh007.github.io/ngx-copilot-platform/) |
 | **[devdocs-forge-agent](https://github.com/AnkitParekh007/devdocs-forge-agent)** | Provider-agnostic documentation agent | TypeScript · OpenAI / Anthropic / Gemini | [demo](https://ankitparekh007.github.io/devdocs-forge-agent/) |
 | **[Agentic-Engineering-Playbook](https://github.com/AnkitParekh007/Agentic-Engineering-Playbook)** | How to ship production-grade agents | MCP · RAG · orchestration · Playwright | [docs](https://ankitparekh007.github.io/Agentic-Engineering-Playbook/) |
