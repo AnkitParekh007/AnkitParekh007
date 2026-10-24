@@ -1,7 +1,8 @@
 <h1 align="center">Ankit Parekh</h1>
-<h3 align="center">AI Frontend Architect · Agent Systems Architect</h3>
+<h3 align="center">Principal Frontend Architect · Enterprise AI Application Architect</h3>
 
 <p align="center">
+  18+ years in software engineering · Led 7 developers · Architecture ownership across multiple products.<br/>
   I architect enterprise AI applications where Angular and TypeScript frontends meet RAG, MCP,
   tool execution, agent orchestration, human approvals, and governed AI runtimes.
 </p>
@@ -13,6 +14,10 @@
 </p>
 
 ---
+
+**Open to:** Principal/Staff Frontend Architect, Enterprise Technical Architect and AI Application Architect roles · Remote internationally or relocation to Germany, Ireland or UAE.
+
+**Portfolio evidence:** Projects below include both runnable implementations and clearly labeled prototypes; demos are not claims of production deployment.
 
 ## Architecture focus
 
