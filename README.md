@@ -1,101 +1,95 @@
-<h1 align="center">Ankit Parekh</h1>
-<h3 align="center">Principal Frontend Architect · Enterprise AI Application Architect</h3>
+<div align="center">
 
-<p align="center">
-  18+ years in software engineering · Led 7 developers · Architecture ownership across multiple products.<br/>
-  I architect enterprise AI applications where Angular and TypeScript frontends meet RAG, MCP,
-  tool execution, agent orchestration, human approvals, and governed AI runtimes.
-</p>
+# Hi, I'm Ankit Parekh 👋
 
-<p align="center">
-  <a href="https://ankitparekh007.github.io/resume/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/akkiparekh">LinkedIn</a> ·
-  <a href="mailto:akki77parekh@gmail.com">Email</a>
-</p>
+### Principal Frontend Architect · Enterprise AI Application Architect
 
----
+**I design the experience people use—and the governed AI systems that make it work.**
 
-**Open to:** Principal/Staff Frontend Architect, Enterprise Technical Architect and AI Application Architect roles · Remote internationally or relocation to Germany, Ireland or UAE.
+Enterprise Angular & TypeScript · AI copilots · RAG & MCP · Agent orchestration · Human-in-the-loop systems
 
-**Portfolio evidence:** Projects below include both runnable implementations and clearly labeled prototypes; demos are not claims of production deployment.
+[**Portfolio & résumé**](https://ankitparekh007.github.io/resume/) · [**LinkedIn**](https://www.linkedin.com/in/akkiparekh) · [**Explore my repositories**](https://github.com/AnkitParekh007?tab=repositories)
 
-## Architecture focus
-
-- **AI-native frontend architecture** — streaming state, grounded citations, tool timelines, approval UX, context-aware interfaces, recovery flows.
-- **Enterprise Angular platforms** — typed contracts, reusable SDK boundaries, scalable state, accessible operator workflows, backend-owned policy.
-- **Agent systems** — provider-neutral runtimes, orchestration, MCP/tool integration, lifecycle governance, versioning, approvals, auditability.
-- **RAG and context architecture** — inspectable retrieval, source provenance, context serialization, evaluation boundaries, safe backend integration.
-- **Human-in-the-loop systems** — explicit approval gates, consequential-action review, failure recovery, revocation, and operator visibility.
-- **Platform engineering** — NestJS/Node.js, Supabase/Postgres, Docker, Kubernetes, Playwright, CI/CD, security and observability.
-
-## Featured architecture
-
-| Project | Architectural proof | Primary signal |
-| --- | --- | --- |
-| **[ngx-copilot-platform](https://github.com/AnkitParekh007/ngx-copilot-platform)** | Full-stack Angular copilot platform with a publishable SDK, backend-owned RAG/auth/approvals, SSE and API-key lifecycle | **Flagship AI frontend platform** |
-| **[org-ai-force](https://github.com/AnkitParekh007/org-ai-force)** | Enterprise Angular + NestJS agent workspace with governance, RAG, MCP-style tools, browser workers and pilot operations | **Enterprise AI architecture** |
-| **[frontend-ai-patterns](https://github.com/AnkitParekh007/frontend-ai-patterns)** | Reusable contracts and patterns for streaming, citations, tools, approvals, context, recovery and guardrails | **AI frontend architecture patterns** |
-| **[agent-studio](https://github.com/AnkitParekh007/agent-studio)** | Governed agent application factory with control plane, runtimes, workers, RBAC, lifecycle state and multi-surface publishing | **Agent platform architecture** |
-| **[angular-ai-copilot-starter](https://github.com/AnkitParekh007/angular-ai-copilot-starter)** | Runnable Angular reference UX for Ask/Plan/Execute/Debug, RAG cards, tool visibility and approval states | **Runnable frontend proof** |
-| **[ai-tools-cheatsheets](https://github.com/AnkitParekh007/ai-tools-cheatsheets)** | Open handbook for AI coding tools, MCP, engineering workflows, team adoption and governance | **Open-source engineering leadership** |
-
-## Architecture journey
-
-```text
-Enterprise Frontend Architecture
-            ↓
-      AI-native UX
-            ↓
-     RAG + Context
-            ↓
-   Tool Calling + MCP
-            ↓
-   Agent Orchestration
-            ↓
-Governed Enterprise AI Platforms
-```
-
-## Open-source ecosystem
-
-```text
-ai-tools-cheatsheets
-   Learn the AI engineering toolchain
-            ↓
-frontend-ai-patterns
-   Learn trustworthy AI interface patterns
-            ↓
-angular-ai-copilot-starter
-   Run the patterns in Angular
-            ↓
-ngx-copilot-platform
-   Integrate an application-grade platform
-            ↓
-agent-studio + org-ai-force
-   Govern and operate agent systems
-```
-
-## Additional proof of work
-
-- **[Agentic-Engineering-Playbook](https://github.com/AnkitParekh007/Agentic-Engineering-Playbook)** — six runnable systems covering provider gateways, RAG, orchestration, MCP, agentic Angular UI and browser automation.
-- **[devdocs-forge-agent](https://github.com/AnkitParekh007/devdocs-forge-agent)** — local-first, provider-agnostic TypeScript documentation agent with reviewable output and source attribution.
-- **[interviewOps](https://github.com/AnkitParekh007/interviewOps)** — local-first Angular + TypeScript application demonstrating provider abstraction, schema validation, content architecture and ethics guardrails.
-- **[shade-shifter](https://github.com/AnkitParekh007/shade-shifter)** — product engineering R&D spanning Flutter, BLE, ESP32, protocol design, CAD and hardware validation.
-
-## Stack
-
-**Frontend:** Angular · TypeScript · RxJS · Signals · React/Next.js where appropriate  
-**AI systems:** RAG · MCP · agent orchestration · tool execution · approval workflows · OpenAI · Anthropic · Gemini  
-**Backend & data:** NestJS · Node.js · Supabase · Postgres · pgvector · Prisma/Drizzle · Redis  
-**Delivery:** Docker · Kubernetes · GitHub Actions · Playwright · observability · security-by-design
-
-## How to review my work
-
-**30 seconds:** scan the six featured projects above.  
-**3 minutes:** open `ngx-copilot-platform`, `frontend-ai-patterns`, and `agent-studio`.  
-**10 minutes:** inspect architecture diagrams, trust boundaries, implementation-vs-demo notes, ADRs, tests and CI across the flagship repositories.
+</div>
 
 ---
 
-<p align="center">
-  <strong>Frontend architecture is the interface. AI architecture is the system behind it. My work focuses on making the two operate as one product.</strong>
-</p>
+### At a glance
+
+- **Architecture leadership:** Led a team of **7 developers** and owned architecture decisions across multiple products.
+- **Frontend foundation:** Enterprise Angular, TypeScript, component architecture, state management, reusable contracts, and developer experience.
+- **AI systems:** Connecting product-grade interfaces to backend-controlled retrieval, tool execution, approvals, agent workflows, and audit trails.
+- **Engineering approach:** Build demonstrable implementations, document tradeoffs, test failure paths, and distinguish prototype evidence from production claims.
+
+> **Design principle:** The frontend explains what an AI system is doing; the backend decides what it is allowed to do.
+
+### ⭐ Start here — selected engineering work
+
+| Project | What to inspect | Evidence |
+| :--- | :--- | :--- |
+| **[ngx-copilot-platform](https://github.com/AnkitParekh007/ngx-copilot-platform)** | Angular SDK + copilot platform with streaming, grounded retrieval, tool timelines, approvals, and backend-owned policy boundaries. | [Live demo](https://ankitparekh007.github.io/ngx-copilot-platform/) · [Failure Lab](https://ankitparekh007.github.io/ngx-copilot-platform/failure-lab) · [Architecture proof](https://github.com/AnkitParekh007/ngx-copilot-platform/blob/main/docs/public-proof.md) |
+| **[org-ai-force](https://github.com/AnkitParekh007/org-ai-force)** | Enterprise Angular/NestJS agent-workspace **prototype**: governance, role-based boundaries, RAG-ready services, MCP-style tools, and browser-worker scenarios. | [Architecture](https://github.com/AnkitParekh007/org-ai-force/blob/main/docs/system-architecture.md) · [Security model](https://github.com/AnkitParekh007/org-ai-force/blob/main/docs/security-model.md) |
+| **[agent-studio](https://github.com/AnkitParekh007/agent-studio)** | Agent application factory with versioned approvals, provider-neutral runtime boundaries, provisioning, publication, and revocation rules. | [Architecture handbook](https://ankitparekh007.github.io/agent-studio/) · [Public proof](https://github.com/AnkitParekh007/agent-studio/blob/main/docs/public-proof.md) |
+| **[frontend-ai-patterns](https://github.com/AnkitParekh007/frontend-ai-patterns)** | Reusable AI frontend patterns for streamed responses, citations, tools, approvals, recovery, and guardrails. | [Explore patterns](https://ankitparekh007.github.io/frontend-ai-patterns/) |
+| **[angular-ai-copilot-starter](https://github.com/AnkitParekh007/angular-ai-copilot-starter)** | Angular reference UX for Ask/Plan/Execute/Debug, grounded answers, action approvals, and tool visibility. | [Explore starter](https://ankitparekh007.github.io/angular-ai-copilot-starter/) |
+| **[ai-tools-cheatsheets](https://github.com/AnkitParekh007/ai-tools-cheatsheets)** | Open engineering guide to AI coding tools, MCP, team workflows, prompt conventions, and safe adoption. | [Read the handbook](https://ankitparekh007.github.io/ai-tools-cheatsheets/) |
+
+<sub>**Evidence boundary:** Public demos, static handbooks, deterministic mock scenarios, and local prototypes are not claims of production customer deployment. Consult each repository's current CI, docs, and implementation notes before assessing readiness.</sub>
+
+### How I think about enterprise AI architecture
+
+```text
+Angular / TypeScript product experience
+             │ streaming UX · citations · tool timeline · approvals
+             ▼
+Typed API / SDK contracts
+             │ authentication · recoverable events · explicit errors
+             ▼
+Backend policy & orchestration boundary
+             │ authorization · budgets · human approvals · audit
+             ▼
+LLMs / RAG / MCP tools / Agents
+             │ retrieval provenance · isolated execution · retries
+             ▼
+Observable outcomes and safe recovery
+```
+
+**My focus is the seam between frontend and AI architecture:** user trust, inspectable decisions, deterministic controls, secure tool boundaries, and resilient workflows—not just a chatbot interface.
+
+### Core expertise
+
+| Area | Technologies & design concerns |
+| :--- | :--- |
+| **Frontend architecture** | Angular, TypeScript, RxJS, Signals, scalable UI components, SDK design, React/Next.js |
+| **AI applications** | LLM integration, RAG, source attribution, MCP, tool calling, agent orchestration |
+| **Trust & governance** | Backend authorization, RBAC, human approvals, audit trails, safe recovery, least privilege |
+| **Backend & data** | Node.js, NestJS, Python/FastAPI, PostgreSQL, Supabase, pgvector, Redis |
+| **Engineering delivery** | Docker, Kubernetes, CI/CD, Playwright, architecture documentation, testability |
+
+### More work worth exploring
+
+- **[Agentic Engineering Playbook](https://github.com/AnkitParekh007/Agentic-Engineering-Playbook)** — runnable learning systems spanning model gateways, RAG, tool orchestration, and browser automation.
+- **[devdocs-forge-agent](https://github.com/AnkitParekh007/devdocs-forge-agent)** — local-first documentation agent with reviewable output and source attribution.
+- **[interviewOps](https://github.com/AnkitParekh007/interviewOps)** — Angular/TypeScript application exploring provider abstraction, structured content, and safeguards.
+- **[shade-shifter](https://github.com/AnkitParekh007/shade-shifter)** — cross-disciplinary product R&D exploring Flutter, BLE, embedded hardware, and CAD.
+- **[Agents Foundry](https://github.com/Agents-Foundry)** — organization-level work on governed employee agents and the supporting control-plane architecture.
+
+### A quick review path
+
+**30 seconds:** Explore [ngx-copilot-platform](https://github.com/AnkitParekh007/ngx-copilot-platform) and its [live demo](https://ankitparekh007.github.io/ngx-copilot-platform/).
+
+**3 minutes:** Compare the [copilot Failure Lab](https://ankitparekh007.github.io/ngx-copilot-platform/failure-lab), [Org AI Force security model](https://github.com/AnkitParekh007/org-ai-force/blob/main/docs/security-model.md), and [Agent Studio governance proof](https://github.com/AnkitParekh007/agent-studio/blob/main/docs/public-proof.md).
+
+**10 minutes:** Inspect repository implementation, architecture decisions, automated tests, CI runs, and clearly marked demo-versus-production boundaries.
+
+### Let's connect
+
+I'm interested in **Principal/Staff Frontend Architecture, Enterprise Technical Architecture, and AI Application Architecture** opportunities—including remote international roles and relocation to **Germany, Ireland, or the UAE**.
+
+<div align="center">
+
+[**View portfolio**](https://ankitparekh007.github.io/resume/) · [**Connect on LinkedIn**](https://www.linkedin.com/in/akkiparekh) · [**Email me**](mailto:akki77parekh@gmail.com)
+
+**Building AI systems that are usable, explainable, governable, and engineered to recover.**
+
+</div>
