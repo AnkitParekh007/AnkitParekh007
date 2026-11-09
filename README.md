@@ -3,11 +3,7 @@
 <img src="assets/ai-architect-banner.svg" alt="Ankit Parekh — Principal Frontend Architect and Enterprise AI Application Architect" width="100%" />
 
 
-# Hi, I'm Ankit Parekh 👋
-
-**Principal Frontend Architect · Enterprise AI Application Architect**
-
-**I design the experience people use—and the governed AI systems that make it work.**
+**Designing trustworthy AI products—from Angular experiences to governed agent runtimes.**
 
 <p>
 <img src="https://img.shields.io/badge/Angular-Architecture-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular architecture" />
@@ -17,23 +13,30 @@
 <img src="https://img.shields.io/badge/Architecture-Governance-334155?style=flat-square" alt="Architecture and governance" />
 </p>
 
-[**Portfolio & résumé**](https://ankitparekh007.github.io/resume/) · [**LinkedIn**](https://www.linkedin.com/in/akkiparekh) · [**Explore my repositories**](https://github.com/AnkitParekh007?tab=repositories)
+[**Live copilot demo**](https://ankitparekh007.github.io/ngx-copilot-platform/) · [**Portfolio & résumé**](https://ankitparekh007.github.io/resume/) · [**LinkedIn**](https://www.linkedin.com/in/akkiparekh)
 
 </div>
 
 ---
 
-<p align="center"><a href="#-featured-architecture--start-here">Featured projects</a> · <a href="#how-i-think-about-enterprise-ai-architecture">System architecture</a> · <a href="#core-expertise">Expertise</a> · <a href="#a-quick-review-path">Review path</a></p>
+<p align="center"><a href="#featured-projects">Featured projects</a> · <a href="#architecture">Architecture</a> · <a href="#expertise">Expertise</a> · <a href="#review-path">Review path</a></p>
+
+### Engineering leadership & impact
+
+- **Led 7 developers** and owned architectural decisions across multiple products.
+- **Enterprise frontend modernization:** Angular upgrades, reusable components and contracts, and replacing legacy UI dependencies.
+- **AI systems:** Public architecture demonstrations for copilot SDKs, RAG provenance, tool approval UX, and versioned agent governance.
+- **Proof rather than inflated metrics:** The work below links directly to code, decisions, tests, and deterministic demos; it does not claim unverified production adoption or performance gains.
 
 ### At a glance
 
-- **Architecture leadership:** Led a team of **7 developers** and owned architecture decisions across multiple products.
 - **Frontend foundation:** Enterprise Angular, TypeScript, component architecture, state management, reusable contracts, and developer experience.
 - **AI systems:** Connecting product-grade interfaces to backend-controlled retrieval, tool execution, approvals, agent workflows, and audit trails.
 - **Engineering approach:** Build demonstrable implementations, document tradeoffs, test failure paths, and distinguish prototype evidence from production claims.
 
 > **Design principle:** The frontend explains what an AI system is doing; the backend decides what it is allowed to do.
 
+<a id="featured-projects"></a>
 ### ⭐ Featured architecture — start here
 
 <p><sub>Working software • Architecture decisions • Clearly identified prototypes and demos</sub></p>
@@ -49,12 +52,14 @@
 
 <sub>**Evidence boundary:** Public demos, static handbooks, deterministic mock scenarios, and local prototypes are not claims of production customer deployment. Consult each repository's current CI, docs, and implementation notes before assessing readiness.</sub>
 
+<a id="architecture"></a>
 ### How I think about enterprise AI architecture
 
 <p align="center"><img src="assets/enterprise-ai-architecture.svg" alt="Five-layer architecture showing an Angular TypeScript user experience flowing through typed contracts, backend policy and approvals, RAG and MCP agent execution, and verifiable recovery." width="100%" /></p>
 
 The critical design decision is **keeping authorization, tool execution, approvals and audit authority on the backend**. A capable frontend makes states, evidence and recovery clear; it does not grant itself permission to act.
 
+<a id="expertise"></a>
 ### Core expertise
 
 | Area | Technologies & design concerns |
@@ -65,6 +70,15 @@ The critical design decision is **keeping authorization, tool execution, approva
 | **Backend & data** | Node.js, NestJS, Python/FastAPI, PostgreSQL, Supabase, pgvector, Redis |
 | **Engineering delivery** | Docker, Kubernetes, CI/CD, Playwright, architecture documentation, testability |
 
+### Verifiable engineering evidence
+
+| Engineering principle | Evidence | Scope |
+| --- | --- | --- |
+| Copilot SDK and backend-owned policy | [ngx-copilot proof](https://github.com/AnkitParekh007/ngx-copilot-platform/blob/main/docs/public-proof.md) | Architecture, test references and reproducible demos |
+| Explicit failure and recovery UX | [Failure Lab](https://ankitparekh007.github.io/ngx-copilot-platform/failure-lab) | Deterministic scenarios, not production incidents |
+| Governed agent lifecycle | [Agent Studio evidence](https://github.com/AnkitParekh007/agent-studio/blob/main/docs/public-proof.md) | Versioned approvals, publishing and revocation rules |
+| Backend trust boundaries | [Org AI Force security model](https://github.com/AnkitParekh007/org-ai-force/blob/main/docs/security-model.md) | Prototype architecture, not certified deployment |
+
 ### More work worth exploring
 
 - **[Agentic Engineering Playbook](https://github.com/AnkitParekh007/Agentic-Engineering-Playbook)** — runnable learning systems spanning model gateways, RAG, tool orchestration, and browser automation.
@@ -73,6 +87,7 @@ The critical design decision is **keeping authorization, tool execution, approva
 - **[shade-shifter](https://github.com/AnkitParekh007/shade-shifter)** — cross-disciplinary product R&D exploring Flutter, BLE, embedded hardware, and CAD.
 - **[Agents Foundry](https://github.com/Agents-Foundry)** — organization-level work on governed employee agents and the supporting control-plane architecture.
 
+<a id="review-path"></a>
 ### A quick review path
 
 **30 seconds:** Explore [ngx-copilot-platform](https://github.com/AnkitParekh007/ngx-copilot-platform) and its [live demo](https://ankitparekh007.github.io/ngx-copilot-platform/).
