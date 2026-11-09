@@ -1,18 +1,29 @@
 <div align="center">
 
+<img src="assets/ai-architect-banner.svg" alt="Ankit Parekh — Principal Frontend Architect and Enterprise AI Application Architect" width="100%" />
+
+
 # Hi, I'm Ankit Parekh 👋
 
-### Principal Frontend Architect · Enterprise AI Application Architect
+**Principal Frontend Architect · Enterprise AI Application Architect**
 
 **I design the experience people use—and the governed AI systems that make it work.**
 
-Enterprise Angular & TypeScript · AI copilots · RAG & MCP · Agent orchestration · Human-in-the-loop systems
+<p>
+<img src="https://img.shields.io/badge/Angular-Architecture-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular architecture" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/AI-Agent%20Systems-6D28D9?style=flat-square" alt="AI agent systems" />
+<img src="https://img.shields.io/badge/RAG%20%26%20MCP-0F766E?style=flat-square" alt="RAG and MCP" />
+<img src="https://img.shields.io/badge/Architecture-Governance-334155?style=flat-square" alt="Architecture and governance" />
+</p>
 
 [**Portfolio & résumé**](https://ankitparekh007.github.io/resume/) · [**LinkedIn**](https://www.linkedin.com/in/akkiparekh) · [**Explore my repositories**](https://github.com/AnkitParekh007?tab=repositories)
 
 </div>
 
 ---
+
+<p align="center"><a href="#-featured-architecture--start-here">Featured projects</a> · <a href="#how-i-think-about-enterprise-ai-architecture">System architecture</a> · <a href="#core-expertise">Expertise</a> · <a href="#a-quick-review-path">Review path</a></p>
 
 ### At a glance
 
@@ -23,7 +34,9 @@ Enterprise Angular & TypeScript · AI copilots · RAG & MCP · Agent orchestrati
 
 > **Design principle:** The frontend explains what an AI system is doing; the backend decides what it is allowed to do.
 
-### ⭐ Start here — selected engineering work
+### ⭐ Featured architecture — start here
+
+<p><sub>Working software • Architecture decisions • Clearly identified prototypes and demos</sub></p>
 
 | Project | What to inspect | Evidence |
 | :--- | :--- | :--- |
@@ -38,23 +51,9 @@ Enterprise Angular & TypeScript · AI copilots · RAG & MCP · Agent orchestrati
 
 ### How I think about enterprise AI architecture
 
-```text
-Angular / TypeScript product experience
-             │ streaming UX · citations · tool timeline · approvals
-             ▼
-Typed API / SDK contracts
-             │ authentication · recoverable events · explicit errors
-             ▼
-Backend policy & orchestration boundary
-             │ authorization · budgets · human approvals · audit
-             ▼
-LLMs / RAG / MCP tools / Agents
-             │ retrieval provenance · isolated execution · retries
-             ▼
-Observable outcomes and safe recovery
-```
+<p align="center"><img src="assets/enterprise-ai-architecture.svg" alt="Five-layer architecture showing an Angular TypeScript user experience flowing through typed contracts, backend policy and approvals, RAG and MCP agent execution, and verifiable recovery." width="100%" /></p>
 
-**My focus is the seam between frontend and AI architecture:** user trust, inspectable decisions, deterministic controls, secure tool boundaries, and resilient workflows—not just a chatbot interface.
+The critical design decision is **keeping authorization, tool execution, approvals and audit authority on the backend**. A capable frontend makes states, evidence and recovery clear; it does not grant itself permission to act.
 
 ### Core expertise
 
