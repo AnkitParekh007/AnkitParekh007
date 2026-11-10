@@ -23,7 +23,7 @@
 
 ### Engineering leadership & impact
 
-- **Led 7 developers** and owned architectural decisions across multiple products.
+- **Led developers** and owned architectural decisions across multiple products.
 - **Enterprise frontend modernization:** Angular upgrades, reusable components and contracts, and replacing legacy UI dependencies.
 - **AI systems:** Public architecture demonstrations for copilot SDKs, RAG provenance, tool approval UX, and versioned agent governance.
 - **Proof rather than inflated metrics:** The work below links directly to code, decisions, tests, and deterministic demos; it does not claim unverified production adoption or performance gains.
