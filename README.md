@@ -3,9 +3,9 @@
 <img src="assets/ai-architect-banner.svg" alt="Ankit Parekh — Principal Frontend Architect and Enterprise AI Application Architect" width="100%" />
 
 
-**Principal Frontend Architect · Enterprise AI Application Architect · Open-source product builder**
+**Principal Frontend Architect · Enterprise AI Application Architect · Founder & Creator of ReboundOps**
 
-Building privacy-first software and governed AI experiences—from enterprise Angular systems to end-to-end developer tools.
+I founded **[ReboundOps](https://rebound-ops.org/)**, an open-source career recovery and job-search platform. I lead its product direction, architecture and engineering while building privacy-first software and governed AI experiences.
 
 <p>
 <img src="https://img.shields.io/badge/Angular-Architecture-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular architecture" />
@@ -26,7 +26,7 @@ Building privacy-first software and governed AI experiences—from enterprise An
 ### Engineering leadership & impact
 
 - **Led a seven-developer team** and owned architectural decisions across multiple products.
-- **Created [ReboundOps](https://github.com/AnkitParekh007/rebound-ops):** an MIT-licensed, local-first career recovery and job-search workspace connecting evidence review, job discovery, role evaluation, CV preparation and application tracking.
+- **Founder, creator & lead maintainer of [ReboundOps](https://github.com/AnkitParekh007/rebound-ops):** an MIT-licensed, local-first career recovery and job-search workspace connecting evidence review, job discovery, role evaluation, CV preparation and application tracking.
 - **Enterprise frontend modernization:** Angular upgrades, reusable components and contracts, and replacing legacy UI dependencies.
 - **AI systems:** Public architecture demonstrations for copilot SDKs, RAG provenance, tool approval UX, and versioned agent governance.
 - **Proof rather than inflated metrics:** The work below links directly to code, decisions, tests, and deterministic demos; it does not claim unverified production adoption or performance gains.
@@ -40,9 +40,11 @@ Building privacy-first software and governed AI experiences—from enterprise An
 > **Design principle:** The frontend explains what an AI system is doing; the backend decides what it is allowed to do.
 
 <a id="reboundops"></a>
-### 🚀 Flagship open-source product: ReboundOps
+### 🚀 ReboundOps — Founder, Creator & Lead Maintainer
 
-**[ReboundOps](https://github.com/AnkitParekh007/rebound-ops)** — an **MIT-licensed, local-first career recovery and job-search workspace** built to help software engineers make better-informed career decisions. Instead of merely generating applications, it connects the steps from understanding your strengths to evaluating opportunities and managing follow-ups.
+I founded and built **[ReboundOps](https://github.com/AnkitParekh007/rebound-ops)** to make career transitions more structured, transparent and manageable. As its **creator and lead maintainer**, I guide the product vision, architecture, engineering and open-source development.
+
+ReboundOps is an **MIT-licensed, local-first career recovery and job-search workspace** built to help software engineers make better-informed career decisions. Instead of merely generating applications, it connects the steps from understanding your strengths to evaluating opportunities and managing follow-ups.
 
 <p align="center">
   <a href="https://rebound-ops.org/"><img src="https://img.shields.io/badge/Explore-ReboundOps-0F766E?style=for-the-badge" alt="Explore ReboundOps" /></a>
@@ -73,7 +75,7 @@ Building privacy-first software and governed AI experiences—from enterprise An
 
 | Project | What to inspect | Evidence |
 | :--- | :--- | :--- |
-| **[ReboundOps](https://github.com/AnkitParekh007/rebound-ops)** | Local-first, privacy-respecting career-recovery and job-search workspace: evidence review, job evaluation, CV preparation, tracking and optional AI. | [Website](https://rebound-ops.org/) · [Sample review](https://rebound-ops.org/#sample-job-review) · [Screenshots](https://rebound-ops.org/screenshots/) |
+| **[ReboundOps](https://github.com/AnkitParekh007/rebound-ops)** — *Founder & Lead Maintainer* | Local-first, privacy-respecting career-recovery and job-search workspace: evidence review, job evaluation, CV preparation, tracking and optional AI. | [Website](https://rebound-ops.org/) · [Sample review](https://rebound-ops.org/#sample-job-review) · [Screenshots](https://rebound-ops.org/screenshots/) |
 | **[ngx-copilot-platform](https://github.com/AnkitParekh007/ngx-copilot-platform)** | Angular SDK + copilot platform with streaming, grounded retrieval, tool timelines, approvals, and backend-owned policy boundaries. | [Live demo](https://ankitparekh007.github.io/ngx-copilot-platform/) · [Failure Lab](https://ankitparekh007.github.io/ngx-copilot-platform/failure-lab) · [Architecture proof](https://github.com/AnkitParekh007/ngx-copilot-platform/blob/main/docs/public-proof.md) |
 | **[org-ai-force](https://github.com/AnkitParekh007/org-ai-force)** | Enterprise Angular/NestJS agent-workspace **prototype**: governance, role-based boundaries, RAG-ready services, MCP-style tools, and browser-worker scenarios. | [Architecture](https://github.com/AnkitParekh007/org-ai-force/blob/main/docs/system-architecture.md) · [Security model](https://github.com/AnkitParekh007/org-ai-force/blob/main/docs/security-model.md) |
 | **[agent-studio](https://github.com/AnkitParekh007/agent-studio)** | Agent application factory with versioned approvals, provider-neutral runtime boundaries, provisioning, publication, and revocation rules. | [Architecture handbook](https://ankitparekh007.github.io/agent-studio/) · [Public proof](https://github.com/AnkitParekh007/agent-studio/blob/main/docs/public-proof.md) |
@@ -105,7 +107,7 @@ The critical design decision is **keeping authorization, tool execution, approva
 
 | Engineering principle | Evidence | Scope |
 | --- | --- | --- |
-| Local-first product engineering | [ReboundOps source](https://github.com/AnkitParekh007/rebound-ops) · [setup](https://github.com/AnkitParekh007/rebound-ops#quick-start) | Integrated career-recovery and job-search workflows; local developer preview |
+| Founder-led, local-first product engineering | [ReboundOps source](https://github.com/AnkitParekh007/rebound-ops) · [setup](https://github.com/AnkitParekh007/rebound-ops#quick-start) | Integrated career-recovery and job-search workflows; local developer preview |
 | Copilot SDK and backend-owned policy | [ngx-copilot proof](https://github.com/AnkitParekh007/ngx-copilot-platform/blob/main/docs/public-proof.md) | Architecture, test references and reproducible demos |
 | Explicit failure and recovery UX | [Failure Lab](https://ankitparekh007.github.io/ngx-copilot-platform/failure-lab) | Deterministic scenarios, not production incidents |
 | Governed agent lifecycle | [Agent Studio evidence](https://github.com/AnkitParekh007/agent-studio/blob/main/docs/public-proof.md) | Versioned approvals, publishing and revocation rules |
